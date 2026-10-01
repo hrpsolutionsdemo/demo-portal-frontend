@@ -23,8 +23,7 @@ export default defineConfig({
     // ---------------------------------- HRP ----------------------------------
 
     "import.meta.env.VITE_EHUB_BACKEND_URL_HRP": JSON.stringify(
-      // "https://demo-portal-backend-h13a.onrender.com/"
-      "http://localhost:5000"
+      "https://demo-portal-backend-9k81.onrender.com"
     ),
     "import.meta.env.VITE_EHUB_BC_URL_HRP": JSON.stringify(
       "https://api.businesscentral.dynamics.com/v2.0/df78e20f-3ca1-4018-9157-8bedb2673da2/HRPSandbox4Demos/"
